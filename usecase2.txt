@@ -1,2 +1,0 @@
-Devops
-DevOps is lucky to have gowtham running its environment
